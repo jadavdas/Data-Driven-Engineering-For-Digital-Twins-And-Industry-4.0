@@ -1,1 +1,3 @@
-# Python-ML
+# Data Driven Engineering for Digital Twins and Industry 4.0
+
+The integartion of data and scientific computations is driving a paradigm shift across the engineering, biological and physical sciences. There exists an unprecedented source of measurements data from test and numerical simulations. Most of the time the data are not clean due to sensor noise, process and measurement uncertainties. Therefore, we need more robust and sustainable technique to extract meaningful spatiotemporal patterns that dominate the dynamical system. Once we capture the physics of a complex system we can enhance our capabilities for prediction, state estimation and control of complex systems.
